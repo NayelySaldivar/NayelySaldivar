@@ -8,7 +8,7 @@ Now, I have a degree on Actuarial Sciences from the Science Campus at UNAM, I st
 
 Although my work experience has been a short time, I have already realised data anaysis has uncountable ways to benefit any kind of organization to improve their performance. For this reason, I strongly decided to learn as much as posible about Data Analytics 💗  and how it could be used to make a more equity world through data driven desitions.
 
-Would you like to travel with me? *[Let's get connect!](linkedin.com/in/nayely-saldivar/)*
+Would you like to travel with me? *[Let's get connect!](https:www.linkedin.com/in/nayely-saldivar/)*
 
 - Some technological tools: Python, R, SQL, VBA (Excel), SAS, Tableau 📊, PowerBI, CSS, Basic Selenium.
 - Interested in: Machine Learning, Big Data, Julia, MongoDB, Rollerblanding and Sci-fi Movies 🍿.
